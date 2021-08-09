@@ -162,7 +162,7 @@ Even for the action of jumping with a button, by making the terrain a rough sea 
 
 [![SUB JUMP](https://github.com/abagames/crisp-game-lib-games/raw/main/docs/subjump/screenshot.gif)](https://abagames.github.io/crisp-game-lib-games/?subjump)
 
-By setting the lower half of the screen as underwater and the upper half as air, the buttons can play multiple roles, such as ascending when in the water and jumping when in the air.
+By setting the lower half of the screen as underwater and the upper half as air, the button can play multiple roles, such as ascending when in the water and jumping when in the air.
 
 ## Use of items
 
