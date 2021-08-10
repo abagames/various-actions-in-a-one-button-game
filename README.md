@@ -138,7 +138,7 @@ Another combination approach is to have a certain behavior have multiple effects
 
 [![BOMB UP](https://github.com/abagames/crisp-game-lib-games/raw/main/docs/bombup/screenshot.gif)](https://abagames.github.io/crisp-game-lib-games/?bombup)
 
-In this game, you can use buttons to drop and explode bombs, but in addition to that, the blast will affect the player by blowing it up. By adjusting the position of the explosion, the player's movement can be controlled. This makes it possible to perform quite complex actions with a single button, but if you overdo it, it becomes too difficult to control the player's movements, so it is important to adjust the level of complexity.
+In this game, you can use the button to drop and explode bombs, but in addition to that, the blast will affect the player by blowing it up. By adjusting the position of the explosion, the player's movement can be controlled. This makes it possible to perform quite complex actions with a single button, but if you overdo it, it becomes too difficult to control the player's movements, so it is important to adjust the level of complexity.
 
 ## Combination with rotational motion
 
@@ -188,6 +188,6 @@ When you pick up an item, it fires a yellow laser downward to destroy the obstac
 
 As you can see, it is possible to create many variations of movements even with a single button. Even with just the games listed in this article, we found that it is possible to create quite a variety of game types.
 
-The advantage of one-button games is that they are easy to control, but this can lead to unexpected traps. The trap is that you can sometimes create a game where you can score infinite points just by hitting the button repeatedly or holding it down. Therefore, after making a game, be sure to play it by hitting and holding the buttons. Even if you don't intend to do so, you should be aware that such a game can be created.
+The advantage of one-button games is that they are easy to control, but this can lead to unexpected traps. The trap is that you can sometimes create a game where you can score infinite points just by hitting the button repeatedly or holding it down. Therefore, after making a game, be sure to play it by hitting and holding the button. Even if you don't intend to do so, you should be aware that such a game can be created.
 
 Also, as a basic premise, there is no relationship between the fact that a game is a one-button game and whether it is interesting or boring. Therefore, it is important that the game has a sense of exhilaration and tension, and a good balance of risk and reward, and should be interesting as a game. After that, it is necessary to consider whether the game can be made into a one-button game.
